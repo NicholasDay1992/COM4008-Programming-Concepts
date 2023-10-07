@@ -35,6 +35,10 @@ int main() {
 // Store this in a variable and then output this to the screen. 
 // In Python, the function is input(), but what is it in C?
 // Also remember to declare your variables with TYPES in C and use semi-colons!  
+//
+// Hint: if you get stuck, look up the 'C format specifiers'
+//
+// Extension: Also ask the user to type in their name, store this in a variable, and then output this to the screen.
 
 void exercise1(){
 
@@ -48,7 +52,15 @@ void exercise1(){
 
 // Exercise 2 
 // Now write a for loop in C that will repeat five times and print the value of the loop counter to the screen.
-// Make sure the output starts at 1, and the final output is 5.
+//
+// Print the values on the same line: 1,2,3,4,5
+// Then also modify the loop so it prints each value on a new line: 
+// 1
+// 2
+// 3
+// 4
+// 5
+//
 // In Python, you might write the for.. in... loop, but what about C?
 // Remember to call exercise2() from the main function above!
 
@@ -75,7 +87,7 @@ void exercise3(){
 
     // Python: 
     // mark = int(input("Please enter your mark:"))
-    // if mark < 40:
+    // if mark >= 0 and mark < 40:
     //    print("Not successful")
     // elif mark >= 40 and mark < 50:
     //    print("This is a D")
@@ -95,7 +107,7 @@ void exercise3(){
 // Hint: in Python you could state the name of the list to print all the values in a row, 
 // but in C, you'll need to loop through each element. 
 // 
-// Extension: Randomly generate the contents of the array. Check this is random each time by printing it to the screen.
+// Extension: Randomly generate the contents of the array with values between 1 and 10. Check this is random each time by printing it to the screen.
 
 
 void exercise4(){
