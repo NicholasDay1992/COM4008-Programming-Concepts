@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/05 C and C++/output/05 C exercises'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EC8, symSize: 0x44 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EC8, symSize: 0x44 }
+  - { offsetInCU: 0x5A, offset: 0x5A, size: 0x8, addend: 0x0, symName: _exercise1, symObjAddr: 0x44, symBinAddr: 0x100003F0C, symSize: 0x1C }
+  - { offsetInCU: 0x6F, offset: 0x6F, size: 0x8, addend: 0x0, symName: _exercise2, symObjAddr: 0x60, symBinAddr: 0x100003F28, symSize: 0x4 }
+  - { offsetInCU: 0x84, offset: 0x84, size: 0x8, addend: 0x0, symName: _exercise3, symObjAddr: 0x64, symBinAddr: 0x100003F2C, symSize: 0x4 }
+  - { offsetInCU: 0x99, offset: 0x99, size: 0x8, addend: 0x0, symName: _exercise4, symObjAddr: 0x68, symBinAddr: 0x100003F30, symSize: 0x4 }
+  - { offsetInCU: 0xAE, offset: 0xAE, size: 0x8, addend: 0x0, symName: _exercise5, symObjAddr: 0x6C, symBinAddr: 0x100003F34, symSize: 0x4 }
+...
