@@ -1,0 +1,15 @@
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.csproj.AssemblyReference.cache
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.AssemblyInfoInputs.cache
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.AssemblyInfo.cs
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.csproj.CoreCompileInputs.cache
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/bin/Debug/net6.0/Session6
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/bin/Debug/net6.0/Session6.deps.json
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/bin/Debug/net6.0/Session6.runtimeconfig.json
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/bin/Debug/net6.0/Session6.dll
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/bin/Debug/net6.0/Session6.pdb
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.dll
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/refint/Session6.dll
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.pdb
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/Session6.genruntimeconfig.cache
+/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/06 C#/Session6/obj/Debug/net6.0/ref/Session6.dll

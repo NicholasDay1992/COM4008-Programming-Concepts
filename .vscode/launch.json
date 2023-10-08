@@ -13,8 +13,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/05 C and C++",
-      "program": "/Users/nick/Documents/GitHub/COM4008-Programming-Concepts/05 C and C++/build/Debug/outDebug"
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
