@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Program",
+      "projectName": "COM4008-Programming-Concepts_33ae6be6"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "Hello",
