@@ -1,9 +1,13 @@
 import pygame 
 
 class Player:
-    def __init__(self, x, y, img):
+    def __init__(self, x, y, img, l, h):
         self.x = x
         self.y = y
-        self.img = pygame.image.load(img)
+        self.img = img
+        self.l = l
+        self.h = h
+        self.img = pygame.transform.scale(img, (l, h))
     
-    
+    def fire(self):
+        x += 5
