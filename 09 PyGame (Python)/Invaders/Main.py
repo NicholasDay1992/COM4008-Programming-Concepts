@@ -16,7 +16,7 @@ pygame.init()
 
 # Set 'constants' for max X and Y size for the drawing window
 SCREEN_X = 500
-SCREEN_Y = 700
+SCREEN_Y = 650
 screen = pygame.display.set_mode([SCREEN_X, SCREEN_Y])
 
 # 1.0 instantiate Player class
