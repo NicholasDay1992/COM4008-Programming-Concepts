@@ -43,11 +43,11 @@ current_row = invaders_y_top
 #print(invaders2D)
 for i in range(rows): # 5 rows
     for j in range(cols): # 0 to 10 - create one row of 11 cols
-        #invaders2D[i][j] = ((invaders_x_left + (j * 30) + 20), current_row )
-        invaders2D[i][j] = Invader((invaders_x_left + (j * 30) + 20), current_row, pygame.image.load("img/invader1.png"), 30, 30) #instantiate one row 
+        #invaders2D[i][j] = ((invaders_x_left + (j * 30) + 20), current_row ) #for testing the COORDINATES
+        invaders2D[i][j] = Invader((invaders_x_left + (j * 30) + 30), current_row, pygame.image.load("img/invader1.png"), 30, 30) #instantiate one row 
     current_row = invaders_y_top + (50 * (i+1)) # distance between rows
 
-#print(invaders2D)
+#print(invaders2D) # for testing the COORDINATES
 
 # Fill the background with black - as it is Space Invaders
 screen.fill((0, 0, 0))
