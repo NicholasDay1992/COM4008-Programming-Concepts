@@ -83,10 +83,12 @@ while running:
     if event.type == pygame.KEYDOWN:
         if event.key == pygame.K_LEFT:
             #screen.blit(player.img, (player.x, player.y)) 
-            player.x -= 0.05
+            #player.x -= 0.05
+            player.move_left() #player.x -= 0.05     # rellocated to a method!
             
         if event.key == pygame.K_RIGHT:
-            player.x += 0.05   
+            #player.x += 0.05  
+            player.move_right() 
     
     screen.blit(player.img, (player.x, player.y))       
     

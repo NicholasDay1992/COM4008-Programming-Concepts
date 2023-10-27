@@ -11,3 +11,14 @@ class Player:
     
     def fire(self):
         x += 5
+    
+    def move_left(self):
+        if self.x > 0:
+            self.x -= 0.05
+            return True
+        else :
+            return False
+    
+    def move_right(self):
+        self.x += 0.05
+        return True
