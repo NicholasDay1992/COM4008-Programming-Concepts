@@ -1,5 +1,6 @@
 # COM4008-Programming-Concepts
-This is the template repository for COM4008 Programming Concepts.
+This is the template repository for COM4008 Programming Concepts. This is our Level 4 introduction to Python. 
+Level 5 modules such as COM5013 Algorithms and Data Structures and COM5004 require you to first take this introduction to Python.
 
 It contains lecture slides, links to lecture recordings and resources, in addition to code and project files to get started. 
 Make sure that you 'use this template' or at least 'fork' this repository, to ensure that you can commit any local changes that you make. 
