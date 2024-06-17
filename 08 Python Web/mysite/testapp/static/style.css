@@ -1,0 +1,19 @@
+
+  h1 {
+    font-size: 3.5rem; 
+    font-weight: bold; 
+    color: #db5959; 
+  }
+  
+  h2 {
+    /*font-size: small; */
+    font-weight: bold; 
+    color: #a65656; 
+  }
+
+  p {
+    font-size: 1.1rem; 
+    line-height: 1.1; 
+    color: #7a2929; 
+  }
+  
