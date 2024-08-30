@@ -61,7 +61,7 @@ while True:
 
 # If you are able to connect to devices on the same network... or via the internet 
 # You'll need to figure out the IP of the server device - 'ipconfig' for Windows, or 'ifconfig' for Mac/Linux
-# Furthermore, check the port you're using is open in the firewall...  
+# Furthermore, check the port you're using is open in the firewall...  The server's firewall must allow incoming connections on the specified port (12345 if you stick with this).
 
 
 '''' 
