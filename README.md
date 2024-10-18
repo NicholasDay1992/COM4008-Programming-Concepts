@@ -15,6 +15,9 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [02 Python Conditionals](https://youtu.be/ypDZl5sY2PA) 📝 [02 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/02%20Python%20Conditionals/02%20Python%20Conditionals.ipynb)
 * [03 Python OOP](https://www.youtube.com/watch?v=RZeZ1Ig0T_E)  
 * [04 Python Types](https://www.youtube.com/watch?v=MDZX59Lrc_g)  
-
+* [05 Python Exceptions] Coming soon...
+* [06 Python Imports and APIs] Coming soon...
+* [07 Python Data libraries] Coming soon..
+* [08 Python Web - Flask] Coming soon...
 
 ![PythonLogo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
