@@ -13,8 +13,8 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [0.5 Environment Setup](https://www.youtube.com/watch?v=xtsEeR_-GJ4)  
 * 🎥 [01 Python Basics](https://youtu.be/6aRLdc1XKrU) 📝 [01 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/01%20Python%20Basics/01%20Python%20Basics.ipynb)  
 * 🎥 [02 Python Conditionals](https://youtu.be/ypDZl5sY2PA) 📝 [02 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/02%20Python%20Conditionals/02%20Python%20Conditionals.ipynb)
-* [03 Python OOP](https://www.youtube.com/watch?v=RZeZ1Ig0T_E)  
-* [04 Python Types](https://www.youtube.com/watch?v=MDZX59Lrc_g)  
+* 🎥 [03 Python OOP](https://www.youtube.com/watch?v=RZeZ1Ig0T_E) 📝 [03 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/03%20Python%20OOP/03%20Python%20OOP.ipynb)
+* 🎥 [04 Python Types](https://www.youtube.com/watch?v=MDZX59Lrc_g) 📝 [04 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/04%20Python%20Data%20Types/04%20Python%20Data%20Structures.ipynb)  
 * [05 Python Exceptions] Coming soon...
 * [06 Python Imports and APIs] Coming soon...
 * [07 Python Data libraries] Coming soon..
