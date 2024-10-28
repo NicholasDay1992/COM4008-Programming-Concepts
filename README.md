@@ -15,8 +15,8 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [02 Python Conditionals](https://youtu.be/ypDZl5sY2PA) 📝 [02 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/02%20Python%20Conditionals/02%20Python%20Conditionals.ipynb)
 * 🎥 [03 Python OOP](https://youtu.be/druwXuJ-X4g?si=mcuQpsnMw4XsPinj)📝 [03 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/03%20Python%20OOP/03%20Python%20OOP.ipynb)
 * 🎥 [04 Python Types](https://www.youtube.com/watch?v=MDZX59Lrc_g) 📝 [04 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/04%20Python%20Data%20Types/04%20Python%20Data%20Structures.ipynb)  
-* [05 Python Exceptions] Coming soon...
-* [06 Python Imports and APIs] Coming soon...
+* 🎥 [05 Python Exceptions & Validation](https://youtu.be/qId30tSr-iQ?si=MGJIPNYRACDTROIg) 📝 [05 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/05%20Python%20Exceptions%20/05%20Python%20Exceptions.ipynb)    
+* 🎥 [06 Python Imports & APIs]() 📝 [06 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/06%20Python%20Imports%20and%20APIs/06%20Python%20Imports.ipynb)
 * [07 Python Data libraries] Coming soon..
 * [08 Python Web - Flask] Coming soon...
 
