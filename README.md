@@ -17,7 +17,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [04 Python Types](https://www.youtube.com/watch?v=MDZX59Lrc_g) 📝 [04 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/04%20Python%20Data%20Types/04%20Python%20Data%20Structures.ipynb)  
 * 🎥 [05 Python Exceptions & Validation](https://youtu.be/qId30tSr-iQ?si=MGJIPNYRACDTROIg) 📝 [05 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/05%20Python%20Exceptions%20/05%20Python%20Exceptions.ipynb)    
 * 🎥 [06 Python Imports & APIs](https://youtu.be/W7-CC06HGw4?si=Db9mN3auqHdGENGf) 📝 [06 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/06%20Python%20Imports%20and%20APIs/06%20Python%20Imports.ipynb)
-* [07 Python Data libraries] Coming soon..
-* [08 Python Web - Flask] Coming soon...
+* 🎥 [07 Python Data - Numpy & Pandas]() 📝 [07 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/07%20Python%20Numpy/07%20Python%20Numpy.ipynb)
+* 🎥 [08 Python Web - Flask Python Numpy]() 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20Flask/08%20Python%20Flask.ipynb)
 
 ![PythonLogo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
