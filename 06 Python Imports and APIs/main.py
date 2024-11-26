@@ -6,7 +6,6 @@ def main():
     print("Hello from main.py!")
     nick_obj = Student("Nick", 12345678)
     nick_obj.print()
-    nick_obj.print()
 
 if __name__ == '__main__':
     try:
