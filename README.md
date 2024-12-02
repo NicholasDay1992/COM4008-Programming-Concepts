@@ -26,6 +26,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [13 Software Development Approaches - Waterfall to Agile](https://youtu.be/fThWckY-7ao?si=ENh9c_LIBys9ELvM). 📝 [13 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20User%20Requirements%20%26%20GitHub/13%20Software%20Engineering_Requirements.pdf) 
 * 🎥 [13.5 GitHub Tour](https://youtu.be/JfxgaalC9n8?si=UdX8SQqwCXhnUVkY).
 * 🎥 [14 Design - UML to Wireframing and Storyboard](https://youtu.be/XFgJRANx9u4). 📝 [14 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Design/14%20Design.pdf)
-* 🎥 15
+* 🎥 [15 Reliable Programming and Debugging](https://youtu.be/0FgvLcHhmR8) 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Reliable%20Programming%20%26%20Debugging/15%20Reliable%20Programming.pdf)   
+* 🎥 [16 Testing] Coming soon... 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Test%20Driven%20Development/16%20Testing.pdf)  
 
 ![PythonLogo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
