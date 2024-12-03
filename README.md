@@ -27,6 +27,6 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [13.5 GitHub Tour](https://youtu.be/JfxgaalC9n8?si=UdX8SQqwCXhnUVkY).
 * 🎥 [14 Design - UML to Wireframing and Storyboard](https://youtu.be/XFgJRANx9u4). 📝 [14 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Design/14%20Design.pdf)
 * 🎥 [15 Reliable Programming and Debugging](https://youtu.be/Upyl2Hj5k0Q) 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Reliable%20Programming%20%26%20Debugging/15%20Reliable%20Programming.pdf)   
-* 🎥 [16 Testing] Coming soon... 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Test%20Driven%20Development/16%20Testing.pdf)  
+* 🎥 [16 Testing](https://youtu.be/q1yBP_lWU4Y) 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Test%20Driven%20Development/16%20Testing.pdf)  
 
 ![PythonLogo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
