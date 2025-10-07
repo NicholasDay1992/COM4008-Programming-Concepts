@@ -9,7 +9,7 @@ This module also includes optional content covering an introduction to other mai
 
 ## COM4008 Curriculum:
 Below you'll find lecture recordings and notebooks with the slides and exercises:
-* 🎥 [00 Welcome to COM4008](https://youtu.be/KS5y_Tj6yqQ?si=DCoCLrbxKbSn0Yi8). 
+* 🎥 [00 Welcome to COM4008](https://youtu.be/YWnu77qWKPk). 
 * 🎥 [0.5 Environment Setup](https://www.youtube.com/watch?v=xtsEeR_-GJ4)  
 * 🎥 [01 Python Basics](https://youtu.be/meKvCzPIhzU) 📝 [01 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/01%20Python%20Basics/01%20Python%20Basics.ipynb)  
 * 🎥 [02 Python Conditionals](https://youtu.be/Ac3BS0ksg4s) 📝 [02 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/02%20Python%20Conditionals/02%20Python%20Conditionals.ipynb)
