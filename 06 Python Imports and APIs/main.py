@@ -1,16 +1,10 @@
-import sys  # For handling command-line arguments
-import argparse  # For more advanced argument parsing
-import logging  # For logging purposes
+from total import get_total, get_int
 
 def main():
-    print("Hello from main.py!")
-    nick_obj = Student("Nick", 12345678)
-    nick_obj.print()
-
-if __name__ == '__main__':
-    try:
-        main()
-    except Exception as e:
-        logging.error(f"An error occurred: {e}")
-        sys.exit(1)  # Exit with a non-zero status to indicate an error
-        
+    print("hello world")
+    numbers = [1,2,3,4,5,6,7,8]
+    numbers.append(get_int("supply a number:"))
+    total = get_total(numbers)
+    print(total)
+    
+main()
