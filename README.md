@@ -24,10 +24,12 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [10 Python Web - Flask](https://youtu.be/XM_sc84CFG8) 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20Flask/08%20Python%20Flask.ipynb)
 * 🎥 [11 Python PyGame I](https://youtu.be/zUqOtottCCU) 📝 [09 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/09%20PyGame%20I/09%20Python%20PyGame%20I.ipynb)
 * 🎥 [12 Python PyGame II](https://youtu.be/gqHT0T3Odfo) 📝 [10 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20PyGame%20II/10%20Python%20PyGame%20II.ipynb)
+
 {% comment %}
 * 🎥 [11 C# Unity - Super Mario Bros I](https://www.youtube.com/watch?v=eV0QqjFHVvE) 📝 [11 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/11%20Unity%20I%20(C%23)/11%20Unity%20I%20-%20Super%20Mario%20Bros.pdf) 
 * 🎥 [12 C# Unity - Super Mario Bros II](https://youtu.be/A1-gVZgKwwg?si=NOCSNG12PyqJuIxI) 📝 [12 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/12%20Unity%20(C%23)%20II/12%20Unity%20II%20-%20Super%20Mario%20Bros.pdf)
 {% endcomment %}
+
 * 🎥 [13 Software Development Approaches - Waterfall to Agile](https://youtu.be/fThWckY-7ao?si=ENh9c_LIBys9ELvM). 📝 [13 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20User%20Requirements%20%26%20GitHub/13%20Software%20Engineering_Requirements.pdf) 
 * 🎥 [13.5 GitHub Tour](https://youtu.be/JfxgaalC9n8?si=UdX8SQqwCXhnUVkY).
 * 🎥 [14 Design - UML to Wireframing and Storyboard](https://youtu.be/XFgJRANx9u4). 📝 [14 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Design/14%20Design.pdf)
