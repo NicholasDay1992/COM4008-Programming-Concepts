@@ -18,7 +18,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [05 Python Exceptions & Validation](https://www.youtube.com/watch?v=INvNyhjdsyY) 📝 [05 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/05%20Python%20Exceptions%20/05%20Python%20Exceptions.ipynb)    
 * 🎥 [06 Python Imports & APIs](https://youtu.be/mO_YFFa7wEU) 📝 [06 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/06%20Python%20Imports%20and%20APIs/06%20Python%20Imports.ipynb)
 * 🎥 [07 Python Classes and Objects](https://youtu.be/nvmZh9j-FYs) 📝 [07 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/07%20Python%20OOP%20I/07%20Python%20Classes%20and%20Objects.ipynb)
-* 🎥 [08 Python Inheritance](https://youtu.be/XM_sc84CFG8) 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20OOP%20II/08%20Python%20Inheritance.ipynb)
+* 🎥 [08 Python Inheritance](https://youtu.be/b0FE5nQCDYU) 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20OOP%20II/08%20Python%20Inheritance.ipynb)
 
 * 🎥 [09 Python Data - Numpy & Pandas](https://youtu.be/zdRcGigjyL8) 📝 [07 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/07%20Python%20Numpy/07%20Python%20Numpy.ipynb)
 * 🎥 [10 Python Web - Flask](https://youtu.be/XM_sc84CFG8) 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20Flask/08%20Python%20Flask.ipynb)
