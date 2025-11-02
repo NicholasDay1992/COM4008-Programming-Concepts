@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Page</h1>
+
+    <form action="/search" method="get">
+        <input type="text" name="query" placeholder="Type your search..." value="{{ query }}">
+        <input type="submit" value="Search">
+    </form>
+
+    {% if query %}
+        <p>You searched for: <strong>{{ query }}</strong></p>
+    {% endif %}
+</body>
+</html>
