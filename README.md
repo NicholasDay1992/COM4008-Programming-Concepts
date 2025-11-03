@@ -21,7 +21,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [08 Python Inheritance](https://youtu.be/b0FE5nQCDYU) 📝 [08 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/08%20Python%20OOP%20II/08%20Python%20Inheritance.ipynb)
 
 * 🎥 [09 Python Numpy](https://youtu.be/X1Maw9qrZXg) 📝 [09 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/09%20Python%20Numpy/09%20Python%20Numpy.ipynb)
-* 🎥 [10 Python Flask](https://youtu.be/X1Maw9qrZXg) 📝 [10 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20Python%20Flask/10%20Python%20Flask.ipynb)
+* 🎥 [10 Python Flask](https://youtu.be/BHv9YFCs3BQ) 📝 [10 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20Python%20Flask/10%20Python%20Flask.ipynb)
 * 🎥 [11 Python PyGame I](https://youtu.be/zUqOtottCCU) 📝 [09 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/09%20PyGame%20I/09%20Python%20PyGame%20I.ipynb)
 * 🎥 [12 Python PyGame II](https://youtu.be/gqHT0T3Odfo) 📝 [10 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20PyGame%20II/10%20Python%20PyGame%20II.ipynb)
 
