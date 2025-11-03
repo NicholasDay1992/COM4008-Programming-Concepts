@@ -1,10 +1,23 @@
 <!DOCTYPE html>
-<html>
-   <head>
-      <title>Page Title</title>
-   </head>
-   <body>
-      <h1>This is a Heading</h1>
-      <p>This is a paragraph</p>
-   </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Numbers</title>
+</head>
+<body>
+    <h1>Enter a number</h1>
+
+    <form method="POST">
+        <input type="number" step="any" name="number" required>
+        <input type="submit" value="Add">
+    </form>
+
+    {% if numbers %}
+        <h2>Numbers so far:</h2>
+        <p>{{ numbers }}</p>
+
+        <h2>Sum:</h2>
+        <p>{{ total }}</p>
+    {% endif %}
+</body>
 </html>
