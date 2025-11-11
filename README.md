@@ -23,7 +23,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [09 Python Numpy](https://youtu.be/X1Maw9qrZXg) 📝 [09 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/09%20Python%20Numpy/09%20Python%20Numpy.ipynb)
 * 🎥 [10 Python Flask](https://youtu.be/BHv9YFCs3BQ) 📝 [10 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20Python%20Flask/10%20Python%20Flask.ipynb)
 * 🎥 [11 Python PyGame I](https://youtu.be/JvGUF8eqPog) 📝 [11 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/09%20PyGame%20I/09%20Python%20PyGame%20I.ipynb)
-* 🎥 [12 Python PyGame II](https://youtu.be/gqHT0T3Odfo) 📝 [12 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20PyGame%20II/10%20Python%20PyGame%20II.ipynb)
+* 🎥 [12 Python PyGame II](https://youtu.be/Y__Mk4bQxxY) 📝 [12 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/10%20PyGame%20II/10%20Python%20PyGame%20II.ipynb) 
 
 {% comment %}
 * 🎥 [11 C# Unity - Super Mario Bros I](https://www.youtube.com/watch?v=eV0QqjFHVvE) 📝 [11 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/11%20Unity%20I%20(C%23)/11%20Unity%20I%20-%20Super%20Mario%20Bros.pdf) 
