@@ -8,6 +8,8 @@
  * @version 1.0 
  */
 
+//import java.util.Scanner;
+
 public class Program {
 
     public static void main(String[] args){
@@ -31,7 +33,8 @@ public class Program {
     public static void exercise1(){
         System.out.println("Exercise 1: I/O in Java");
         //Write your solution here.
-
+        //Scanner obj = new Scanner(System.in);
+        //...
     }
 
     /**
