@@ -26,7 +26,7 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [12 Python PyGame II](https://youtu.be/Y__Mk4bQxxY) 📝 [12 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/12%20PyGame%20II/12%20Python%20PyGame%20II.ipynb)
 
 * 🎥 [13 Java - Introduction](https://youtu.be/Yb_SPiXePo0) 📝 [13 Java Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/13%20lecture%20slides/13%20Lecture%20Slides%20-%20Java.pdf) 📝 [13 Java Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/Session13/Program.java)
-* 🎥 [14 Java - Greenfoot](https://youtu.be/Yb_SPiXePo0) 📝 [14 Greenfoot Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/13%20lecture%20slides/13%20Lecture%20Slides%20-%20Java.pdf) 📝 [14 Greenfoot Exercise](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/Session13/Program.java) 
+* 🎥 [14 Java - Greenfoot](https://youtu.be/Yb_SPiXePo0) 📝 [14 Greenfoot Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Greenfoot%20(Java)/14%20lecture%20slides/14%20Mario%20Pyramid%20in%20Greenfoot.pdf) 📝 [14 Greenfoot Exercise](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/Session13/Program.java) 
 
 {% comment %}
 * 🎥 [11 C# Unity - Super Mario Bros I](https://www.youtube.com/watch?v=eV0QqjFHVvE) 📝 [11 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/11%20Unity%20I%20(C%23)/11%20Unity%20I%20-%20Super%20Mario%20Bros.pdf) 
