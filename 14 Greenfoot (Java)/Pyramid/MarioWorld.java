@@ -78,19 +78,20 @@ public class MarioWorld extends World
     {
         int size = getPyramidSize();
         int x = 4; int y = GROUND_ROW;
-        int width = size;
-        int col = x;
-        for (int rows = y; rows >= y - size; rows--){
-            for (col = x; col <= col + width; col++){
+        
+        int xStart = x;
+        int xEnd = x + size;
+        int yStart = y; //17
+        int yEnd = y - size;
+        
+        for (int i = 0; i < size+1; i++){
+            for(x = xStart; x <= xEnd; x++){
                 Block Block = new Block();
-                addObject(Block, col, rows);
+                addObject(Block, x, y);
             }
-            width--;
-            col++;
+            y--;
+            xStart++;
         }
-
-        //Block Block = new Block();
-        //addObject(Block, x, y);
     }
     
 }
