@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MarioWorld
+comment0.text=\n\ A\ new\ version\ of\ the\ Mario\ Game\ which\ just\ contains\n\ a\ platform\ for\ Mario\ to\ walk\ left\ to\ right\ and\ a\ Pyramid\n\ \n\ @author\ Derek\ Peacock\ \n\ @version\ 1.0\n
+comment1.params=
+comment1.target=MarioWorld()
+comment1.text=\n\ Setup\ the\ world\ with\ MAXN_COLUMNS\ x\ MAXN_ROWS\n\ of\ tiles,\ with\ a\ tiles\ being\ squares\ TILE_SIZE\ pixels\n\ \n
+comment2.params=
+comment2.target=void\ drawPath()
+comment2.text=\n\ Create\ a\ path\ at\ the\ bottom\ of\ the\ screen\ which\ is\n\ 2\ tiles\ high\ and\ goes\ right\ across\ the\ whole\ widh\ of\n\ the\ screen\ to\ form\ the\ ground\ for\ Mario\ to\ walk\ on.\n
+comment3.params=
+comment3.target=int\ getPyramidSize()
+comment3.text=\n\ Ask\ the\ user\ to\ enter\ the\ size\ of\ the\ pyramid\ in\n\ blocks\ between\ 1\ to\ 8\ inclusive\n
+comment4.params=
+comment4.target=void\ buildPyramid()
+comment4.text=\n\ Build\ a\ pyramid\ of\ blocks.\ \ The\ pyramid\ base\ is\ twice\n\ the\ size,\ and\ the\ pyramid\ is\ size\ blocks\ high.\n\ There\ is\ a\ gap\ of\ 2\ blocks\ in\ the\ centre\n
+numComments=5

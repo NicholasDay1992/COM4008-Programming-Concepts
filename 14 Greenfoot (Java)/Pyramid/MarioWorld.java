@@ -78,9 +78,19 @@ public class MarioWorld extends World
     {
         int size = getPyramidSize();
         int x = 4; int y = GROUND_ROW;
-        
-        Block Block = new Block();
-        addObject(Block, x, y);
+        int width = size;
+        int col = x;
+        for (int rows = y; rows >= y - size; rows--){
+            for (col = x; col <= col + width; col++){
+                Block Block = new Block();
+                addObject(Block, col, rows);
+            }
+            width--;
+            col++;
+        }
+
+        //Block Block = new Block();
+        //addObject(Block, x, y);
     }
     
 }
