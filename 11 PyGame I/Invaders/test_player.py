@@ -1,7 +1,7 @@
 import pygame
-from Player import Player
+from player import Player
 
-player = Player(235, 550, pygame.image.load("img/defender.png"), 35, 30)
+player = Player(235, 550, pygame.image.load("11 PyGame I/Invaders/img/defender.png"), 35, 30)
 
 def test_move_left():
      assert player.move_left() == True
