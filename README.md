@@ -28,8 +28,8 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [13 Java - Introduction](https://youtu.be/Yb_SPiXePo0) 📝 [13 Java Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/13%20lecture%20slides/13%20Lecture%20Slides%20-%20Java.pdf) 📝 [13 Java Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/Session13/Program.java)
 * 🎥 [14 Java - Greenfoot](https://youtu.be/yrjtAPxgZv0) 📝 [14 Greenfoot Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Greenfoot%20(Java)/14%20lecture%20slides/14%20Mario%20Pyramid%20in%20Greenfoot.pdf) 📝 [14 Greenfoot Exercise](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/tree/main/14%20Greenfoot%20(Java)/Pyramid)
 
-* 🎥 [15 GitHub, Requirements and Design](https://youtu.be/iQKBmaXRI2o). 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Requirements%20%26%20Design/15%20SoftEng_Req_Design.pdf) 
-* 🎥 [16 Reliable Programming and Testing](https://youtu.be/fThWckY-7ao?si=ENh9c_LIBys9ELvM). 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20User%20Requirements%20%26%20GitHub/13%20Software%20Engineering_Requirements.pdf)
+* 🎥 [15 GitHub, Requirements and Design](https://youtu.be/iQKBmaXRI2o) 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Requirements%20and%20Design/15%20SoftEng_Req_Design.pdf) 
+* 🎥 [16 Reliable Programming and Testing](https://youtu.be/B716nrb0nMg) 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Reliable%20Programming%20and%20Testing/16%20Reliable%20Programming%20and%20Testing.pdf)
 
 {% comment %}
 * 🎥 [11 C# Unity - Super Mario Bros I](https://www.youtube.com/watch?v=eV0QqjFHVvE) 📝 [11 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/11%20Unity%20I%20(C%23)/11%20Unity%20I%20-%20Super%20Mario%20Bros.pdf) 
