@@ -28,15 +28,19 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [13 Java - Introduction](https://youtu.be/Yb_SPiXePo0) 📝 [13 Java Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/13%20lecture%20slides/13%20Lecture%20Slides%20-%20Java.pdf) 📝 [13 Java Exercises](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20Java/Session13/Program.java)
 * 🎥 [14 Java - Greenfoot](https://youtu.be/yrjtAPxgZv0) 📝 [14 Greenfoot Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Greenfoot%20(Java)/14%20lecture%20slides/14%20Mario%20Pyramid%20in%20Greenfoot.pdf) 📝 [14 Greenfoot Exercise](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/tree/main/14%20Greenfoot%20(Java)/Pyramid)
 
+* 🎥 [15 GitHub, Requirements and Design](https://youtu.be/iQKBmaXRI2o). 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Requirements%20%26%20Design/15%20SoftEng_Req_Design.pdf) 
+* 🎥 [16 Reliable Programming and Testing](https://youtu.be/fThWckY-7ao?si=ENh9c_LIBys9ELvM). 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20User%20Requirements%20%26%20GitHub/13%20Software%20Engineering_Requirements.pdf)
+
 {% comment %}
 * 🎥 [11 C# Unity - Super Mario Bros I](https://www.youtube.com/watch?v=eV0QqjFHVvE) 📝 [11 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/11%20Unity%20I%20(C%23)/11%20Unity%20I%20-%20Super%20Mario%20Bros.pdf) 
 * 🎥 [12 C# Unity - Super Mario Bros II](https://youtu.be/A1-gVZgKwwg?si=NOCSNG12PyqJuIxI) 📝 [12 Slides - Unity Walkthrough](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/12%20Unity%20(C%23)%20II/12%20Unity%20II%20-%20Super%20Mario%20Bros.pdf)
-{% endcomment %}
+
 
 * 🎥 [13 Software Development Approaches - Waterfall to Agile](https://youtu.be/fThWckY-7ao?si=ENh9c_LIBys9ELvM). 📝 [13 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/13%20User%20Requirements%20%26%20GitHub/13%20Software%20Engineering_Requirements.pdf) 
 * 🎥 [13.5 GitHub Tour](https://youtu.be/JfxgaalC9n8?si=UdX8SQqwCXhnUVkY).
 * 🎥 [14 Design - UML to Wireframing and Storyboard](https://youtu.be/XFgJRANx9u4). 📝 [14 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/14%20Design/14%20Design.pdf)
 * 🎥 [15 Reliable Programming and Debugging](https://youtu.be/Upyl2Hj5k0Q) 📝 [15 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/15%20Reliable%20Programming%20%26%20Debugging/15%20Reliable%20Programming.pdf)   
-* 🎥 [16 Testing](https://youtu.be/q1yBP_lWU4Y) 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Test%20Driven%20Development/16%20Testing.pdf)  
+* 🎥 [16 Testing](https://youtu.be/q1yBP_lWU4Y) 📝 [16 Slides](https://github.com/NicholasDay1992/COM4008-Programming-Concepts/blob/main/16%20Test%20Driven%20Development/16%20Testing.pdf)
+{% endcomment %} 
 
 ![PythonLogo](https://www.ntuclearninghub.com/documents/39367/4216797/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476/)
