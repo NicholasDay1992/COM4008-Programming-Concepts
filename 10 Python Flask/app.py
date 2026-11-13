@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     result = process_data()  # Call the function from the script
-    return render_template('index.html', result=result)
+    return render_template('home.html', result=result)
  
 @app.route('/about')
 def about():

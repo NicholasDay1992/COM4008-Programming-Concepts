@@ -1,3 +1,2 @@
 Hello from message and hello from nick.txt
 Additional line in message.txt
-Additional line in message.txt
